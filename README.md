@@ -7,6 +7,8 @@
  ![Capture](https://user-images.githubusercontent.com/77393687/225598930-9a08ac8a-1700-4542-9fb2-2019b296c3e1.PNG) <br/>
  
  
+ ---
+ 
  2. LeNet-5 <[Code with Pytorch](https://github.com/Elman295/Paper_with_code/blob/main/LeNet_5_Pytorch.ipynb)> <br/>
 
 ![mnist](https://user-images.githubusercontent.com/77393687/225910659-64b38b63-2898-42b7-958c-c0728839514a.png)
