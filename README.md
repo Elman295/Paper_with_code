@@ -19,5 +19,8 @@
  3. DCGAN <[paper](https://github.com/Elman295/DCGAN_CIFAR10/blob/main/DCGAN.pdf%C3%AF%C2%BC%E2%80%B0)><[Code with Pytorch](https://github.com/Elman295/Paper_with_code/blob/main/DCGAN_PYTORCH.ipynb)> <[Code with TensorFlow](https://github.com/Elman295/DCGAN_CIFAR10/blob/main/DCGAN_CIFAR10_TensorFlow.ipynb)>  <br/>
 
 
+
+![dcgan](https://user-images.githubusercontent.com/77393687/227929254-45fe343a-1d25-4bd4-bf15-8800589c0e96.jpg)
+
  
 
