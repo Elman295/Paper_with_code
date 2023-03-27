@@ -12,6 +12,12 @@
  2. LeNet-5 <[Code with Pytorch](https://github.com/Elman295/Paper_with_code/blob/main/LeNet_5_Pytorch.ipynb)> <br/>
 
 ![mnist](https://user-images.githubusercontent.com/77393687/225910659-64b38b63-2898-42b7-958c-c0728839514a.png)
+<br/>
+
+---
+
+ 3. DCGAN <[paper](https://github.com/Elman295/DCGAN_CIFAR10/blob/main/DCGAN.pdf%C3%AF%C2%BC%E2%80%B0)><[Code with Pytorch](https://github.com/Elman295/Paper_with_code/blob/main/DCGAN_PYTORCH.ipynb)> <[Code with TensorFlow](https://github.com/Elman295/DCGAN_CIFAR10/blob/main/DCGAN_CIFAR10_TensorFlow.ipynb)>  <br/>
+
 
  
 
